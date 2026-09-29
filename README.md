@@ -1,2 +1,5 @@
 # cache-barrage
-Barrage plain-language clone of fitzyracing1/cache
+
+Barrage clone of [fitzyracing1/cache](https://github.com/fitzyracing1/cache).
+
+Read [listing.barrage](listing.barrage).
